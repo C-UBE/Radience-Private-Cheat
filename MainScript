@@ -1,0 +1,2 @@
+_G.wl_key = "Key Here"
+loadstring(game:HttpGet(('https://main.radience.tech/Script')))()
