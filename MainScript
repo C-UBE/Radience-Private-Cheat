@@ -1,0 +1,2 @@
+_G.wl_key = "Key Here"
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/C-UBE/c-ube.github.io/main/Script')))()
