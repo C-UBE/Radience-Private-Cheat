@@ -19,4 +19,6 @@ Radience is a very good private phantom forces cheat that has legit and rage bas
 
 ## Why should you use Radience?
 
-Radience is a 
+Radience is a very op and very easy to use top of the line phantom forces cheat
+
+## Version 2.4.5
